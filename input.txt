@@ -1,0 +1,10 @@
+liberate interface;
+
+int main() {
+    int a = 0;
+    int b = 0;
+
+    int c, d = 0;
+
+    log("a: " + a)
+}
